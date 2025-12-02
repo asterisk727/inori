@@ -10,4 +10,4 @@ A CLI tool to parse and convert certain file formats.
 
 ### Usage
 
-### Developments
+### Development
