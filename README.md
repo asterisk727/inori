@@ -1,15 +1,13 @@
-# inori
+<h1 align="center"> 祈 </h1>
+<p align="center"> -我ら神祖と共に歩む者なり- </p>
 
-To install dependencies:
+A CLI tool to parse and convert certain file formats.
 
-```bash
-bun install
-```
+> [!NOTE]
+> This tool is still in development and is incomplete. Check back again later!
 
-To run:
+### Installing
 
-```bash
-bun run index.ts
-```
+### Usage
 
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+### Developments
